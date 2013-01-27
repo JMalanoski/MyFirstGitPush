@@ -1,0 +1,2 @@
+module StaticPsHelper
+end
